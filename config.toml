@@ -1,0 +1,123 @@
+baseURL = "https://happyhannahart.com/"
+languageCode = "en-us"
+title = "Happy Hannah Art"
+themesDir = "themes"
+theme = "hugo-universal-theme"
+defaultContentLanguage = "en"
+googleAnalytics = ""
+
+# number of words of summarized post content (default 70)
+summaryLength = 40
+
+# Define the number of posts per page
+paginate = 10
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog"
+    weight     = 2
+    
+
+[[menu.topbar]]
+    weight = 1
+    name = "instagram"
+    url = "https://www.instagram.com/lesliecarrierart/"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[params.contact]
+    title = "Contact"
+
+    [params.contact.form.name]
+        text = "Name"
+        error = "Please enter your name."
+
+    [params.contact.form.email]
+        text = "Email Address"
+        error = "Please enter your email address."
+
+    [params.contact.form.message]
+        text = "Message"
+        error = "Please enter a message."
+
+    [params.contact.form.button]
+        text = "Send"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Leslie Carrier"
+    defaultKeywords = ["devcows", "hugo", "go"]
+    mainSections = ["blog"]
+    defaultDescription = "Test blog description"
+    copyright = "Copyright ©2024 Happy Hannah Art LLC"
+
+    enableRecaptchaInContactForm = true
+    googleRecaptchaKey = "6LdcXQkqAAAAAKkZBdxtF_CIHLCz5DG1QF5e_3sM"
+    enableGoogleMaps = false
+    
+    style = "violet"
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    dropdown_mouse_over = false
+
+    disabled_logo = false
+    logo_text = "Happy Hannah Art"
+    logo_small = "img/logo-small.png"
+    logo_svg = "img/HappyHannahLogo.svg"
+
+
+
+[permalinks]
+    blog = "/blog/:filename/"
+
+[params.topbar]
+    enable = true
+    text = """
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = false
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.features]
+    enable = true
+    cols = 3 # Default: 3, Available values 2,3,4,6 
+
+[params.recent_posts]
+    enable = true
+    title = "Recent Blogs"
+    subtitle = "Store updates, cartoons, life fun, and the occasional snacks!"
+    hide_summary = false
+
+[params.footer.recent_posts]
+    enable = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"

@@ -1,0 +1,166 @@
+/* your styles go here */
+
+:root {
+  --primary-accent: #5a1986;
+  --navbar-border-top: #653d87;
+  --button-border: #7a4aa3;
+  --link-focus: #5a1986;
+  --form-shadow: rgba(152, 109, 189, 0.6);
+  --pagination-bg: #e2d6ed;
+  --link-hover-bg: #7f4daa;
+  --navbar-focus: #cab3dd;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  color: #555555;
+}
+
+#top {
+  background: #5a1986;
+}
+  
+#top .social a {
+  color:#ffffff;
+}
+
+.navbar-brand img {
+  max-height: 1111px;
+}
+
+.main-logo {
+  min-width:350px;
+}
+
+@media (max-width: 767px) {
+  .main-logo {
+    min-width:250px;
+  }
+
+  .navbar-brand {
+    padding: 15px 15px;
+  }
+}
+
+.navbar-affixed-top {
+  position: relative;
+}
+
+.navbar ul.nav > li > a {
+  border-top:none;
+  color: rgb(51, 51, 51);
+  padding:25px 20px 25px 20px;
+}
+
+.navbar ul.nav > li.active > a {
+  border-top:none;
+}
+
+.navbar ul.nav > li > a:hover {
+  border-top:none;
+}  
+
+.home-carousel {
+  background: url('../img/photogrid.png') center center repeat;
+}
+
+.home-carousel .dark-mask {
+  opacity: 0.92;
+}
+
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel h3,
+.home-carousel p,
+.home-carousel ul {
+  color: #333333;
+}
+
+#heading-breadcrumbs h1 {
+  font-family: "gelica", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.home-carousel h1 {
+  font-family: "gelica", sans-serif;
+  font-weight: 600;
+  font-style: normal; 
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 55px;
+}
+
+.home-carousel .dark-mask {
+  background: #ffec51;
+}
+
+.home-carousel .owl-carousel {
+  padding-bottom: 0px;
+}
+
+/* Remove extra padding in between recent blog posts and features */
+.bar.background-white.features {
+  padding: 60px 0px 0px 0px !important;
+}
+
+#heading-breadcrumbs, #copyright {
+  background: url('../img/BlogPostTile_300x300.png') center center repeat;
+}
+
+#copyright {
+  font-size: 16px;
+  color: #333333;
+}
+
+.box-image-text .content p, .box-image-text.blog .author-category {
+  color: #333333;
+}
+
+.text-danger {
+  color: #e74c3c;
+}
+
+.text-danger ul {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.text-sucess {
+  color: rgb(28, 97, 28);
+}
+
+.box-simple h3, .heading h2 {
+  color: #333333;
+  font-family: "gelica", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 30px;  
+}
+
+.heading {
+  margin-bottom: 20px;
+}
+
+.heading h2 {
+  padding-bottom: 0px;
+  border-bottom: none;
+}
+
+.box-simple h3 a {
+  color: #333333;
+}
+.box-simple p {
+  color: #333333;
+}
+
+.figure-caption {
+  font-style: italic;
+}

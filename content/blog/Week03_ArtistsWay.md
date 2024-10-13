@@ -1,0 +1,19 @@
++++
+title = "The Artist's Way Week 3 Recap"
+date = "2024-08-27T21:29:20+08:00"
+tags = ["artist's way"]
+categories = ["about"]
+banner = "img/banners/ArtistWay_03.png"
+caption = "My first attempt at making mango sticky rice"
+authors = ["Leslie Carrier"]
++++
+
+Week 3 of the Artist's Way course has come and gone with this week's chapter highlighting how to handle anger, criticism, and that nagging feeling of shame related to exploring our creativity. Anger is good because it drives us to create action. Have you ever had an idea only to see it implemented by someone else months later? Instead of letting that anger stew inside, take action as soon as you can on that next idea. Elizabeth Gilbert perfectly illustrates this concept in her highly-recommended book: <span style="font-style:italic;">Big Magic</span>. She emphasizes the importance of implementing an idea once it pops into your head, or at least taking some action to nurture it before that idea "jumps" to the next person. A creative idea wants to be implemented! This was confirmation for me to stop procrastinating on any new creative projects I want to start.
+<br><br>
+I didn't really notice any significant breakthroughs this week. I've honestly felt creatively stagnant or blocked for a while and not getting the same excitement as I once did for my projects. I know it's just a temporary funk, but I won't let myself feel guilty about that like I did before. Hey, maybe that's some great progress right there! Anyway, this book and course have made it acceptable to feel these moments of uncertainty, acknowledge them, and keep going. Don't wait for creativity to strike, just keep on moving through those projects! This course has definitely reminded me to be kinder to myself and enjoy the creative process. It's all a learning experience for everyone.
+<br><br>
+I'm still going strong slogging through those morning pages! It still takes me roughly 30 minutes to complete, but I noticed they ramp up a bit in speed near the end. I kind of go off into tangents about life and writing out how I feel. Anything is game with these morning pages, just let the pen flow and see what comes out of the stream of consciousness. 
+<br><br>
+I decided to try out a new recipe for this week's artist date. I recently had mango sticky rice for the first time at a local Thai restaurant and loved it. Why did it take me so long to finally try this?! So I decided to attempt to make it at home and see what happens. I went with a recipe I watched on YouTube and shopped for all of the ingredients. I couldn't find a honey mango, so I went with the usual kind you'd find in the store that's a bit more firm and not as sweet. I never buy mangos. I did years ago, but it was a complete disaster because I had no idea what I was doing and wrongfully chose an underripe. I ended up shredding the poor mango in my failed attempt to cut it. Being a little bit wiser this time after watching the recipe video, I successfully chose a ripe mango (at least I think I did). I figured I would be able to peel the skin off with a potato peeler as shown in the video, but only to be quickly thrown back to reality when the peeler barely budged. Again, I had the firmer mango type, so I ended up just cutting the skin off with a knife instead. I was relieved to find the inside glowing with the correct mango color. So far so good.
+<br><br>
+So now that the mango is all cut and prepared, I went ahead and worked on mixing the magical coconut mixture in the rice. I wish I had a better story about how making the sticky rice went, but it was relatively uneventful and went as planned. I enjoyed the rice's consistency and balance of a soft but firm texture. Although the overall critique was that it was good...I got a report that it had too strong of a coconut flavor. Sheesh, I guess you can't please everyone! Which is okay since this course is all about accepting mistakes and trying something new!
