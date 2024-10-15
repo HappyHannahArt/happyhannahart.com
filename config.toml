@@ -6,11 +6,11 @@ theme = "hugo-universal-theme"
 defaultContentLanguage = "en"
 googleAnalytics = ""
 
-# number of words of summarized post content (default 70)
-summaryLength = 40
-
 # Define the number of posts per page
 paginate = 10
+
+# number of words of summarized post content (default 70)
+summaryLength = 40
 
 # not pluralize title pages by default
 pluralizelisttitles = false
