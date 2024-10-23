@@ -1,0 +1,15 @@
++++
+title = "The Artist's Way Week 11 Recap"
+date = "2024-10-22T21:29:20+08:00"
+tags = ["artist's way"]
+categories = ["about"]
+banner = "img/banners/ArtistWay_11.png"
+caption = "Some doodles from my sketchbook I did for my artist date"
+authors = ["Leslie Carrier"]
++++
+
+Week 11 of *The Artist's Way* examines how we can nurture and accept ourselves as artists rather than being concerned over what's marketable and successful. I host a weekly meetup call with a small group where we discuss each chapter and we all felt that it was a bit of a recap of the book which is a much-needed reminder of what we may often forget as artists: to love ourselves by ignoring that negative inner voice. The chapter touches on the detriment of success where we can often force ourselves to recreate making what sells which later leads to burnout because we stop listening to our creative voice. You can see this with successful movies where they try to capture lightning twice by releasing multiple sequels that just don't capture the same magic as the first movie. Oftentimes success can pigeonhole artists to stay in a specific style that took off instead of getting the creative exploration time to learn and try out other techniques.
+
+To help remedy those create droughts from stagnation, action is often needed in the form of going outside and getting exercise. Even just walking has the power to help declutter your mind and allow the answers to flow. Morning pages of course also offers those breakthrough moments when we take the time to go within and quiet the inner chatty voice. I have often found that being by myself or writing about a problem in my morning pages offers some solace and answers to those inner turmoil moments. It's easy to live in your head and make a simple problem seem like a giant monster, but writing it down and taking a mental health break through walking is the most effective way to get out of that funk.
+
+This week's artist date I decided to have more of an artist's day with relaxing and doodling in my sketchbook again. Even though I stayed home for this exercise, I'm glad I gave myself the time and validation to do this one creative activity that I've procrastinated on for a while. You don't even need an entire day, just drawing something small, even for thirty minutes a day is enough to provide a creative outlet. Not much of a drawer? It doesn't matter! These drawings are just for you and not to share if you don't want to. The doodles in my sketchbook are meant as a journal to document recent events and explore ideas. I purposely use a ballpoint pen to put less pressure on myself. That may sound counterintuitive, but I find if I sketch in pencil and then ink over, I tend to overthink the drawing and end up getting too intimidated to commit only 10 minutes. If you're still not convinced to get into drawing, try some other simple creative activities such as coloring in a coloring book, looking over old photos, trying a new recipe, or just going outside and walking in nature.

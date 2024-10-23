@@ -24,20 +24,14 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-8" id="blog-post">
-
                         {{ if .Params.banner }}
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-6" style="padding-left: 0px; padding-right:0px; padding-bottom:20px;">
-                                    <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="">
-                                    {{ if .Params.caption }}
-                                        <p class="figure-caption">{{ .Params.caption}}</p>
-                                    {{ end }}
-                                </div>
-                            </div>
-                        </div>
+                            <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="">
+                            {{ if .Params.caption }}
+                                <p class="figure-caption">{{ .Params.caption}}</p>
+                            {{ end }}
+
                         {{ end }}
-                    
+                      
                         <div id="post-content">
                           {{ .Content }}
                         </div>
