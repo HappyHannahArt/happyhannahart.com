@@ -34,8 +34,20 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "instagram"
-    url = "https://www.instagram.com/lesliecarrierart/"
+    url = "https://www.instagram.com/happyhannahartshop/"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "pinterest"
+    url = "https://www.pinterest.com/HappyHannahArt/"
+    pre = "<i class='fab fa-2x fa-pinterest'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "youtube"
+    url = "https://www.youtube.com/@HappyHannahArt"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
 
 [params.contact]
     title = "Contact"

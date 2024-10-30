@@ -164,3 +164,7 @@ body {
 .figure-caption {
   font-style: italic;
 }
+
+.icon {
+  font-size: 40px;
+}
