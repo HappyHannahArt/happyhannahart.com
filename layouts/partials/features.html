@@ -23,16 +23,18 @@
 
                     <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
                         <div class="box-simple">
-                            {{ with $element.url }}
-                            <a href="{{ $element.url }}">
-                            {{ end }}
-                                <div class="icon">
-                                    <i class="{{ $element.icon }}"></i>
-                                </div>
-                            {{ with $element.url }}
+                            <div class="icon">
+                                <i class="{{ $element.icon }}"></i>
+                            </div>                           
+                            <h3>
+                                {{ with $element.url }}
+                                   <a href="{{ $element.url }}" target="_blank" style="color:#5a1986;">
+                                {{ end }}
+                                {{ $element.name | markdownify }}
+                                {{ with $element.url }}
                             </a>
-                            {{ end }}
-                            <h3>{{ $element.name | markdownify }}</h3>
+                            {{ end }}</h3>
+                         
                             <p>{{ $element.description | safeHTML }}</p>
                         </div>
                     </div>
