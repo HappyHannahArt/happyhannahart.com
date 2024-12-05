@@ -70,9 +70,9 @@ pluralizelisttitles = false
 [params]
     viewMorePostLink = "/blog/"
     author = "Leslie Carrier"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = ["happyhannahart"]
     mainSections = ["blog"]
-    defaultDescription = "Test blog description"
+    defaultDescription = "Welcome to Happy Hannah Art! Celebrating pets, animals, and treats through my artwork!"
     copyright = "Copyright ©2024 Happy Hannah Art LLC"
 
     enableRecaptchaInContactForm = true
