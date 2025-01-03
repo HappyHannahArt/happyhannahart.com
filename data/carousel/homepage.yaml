@@ -4,7 +4,7 @@ description:
   <ul class="list-style-none">
     <li>Online stores are now open!</li>
   </ul>
-  <a href="https://www.redbubble.com/people/HappyHannahArt/shop?asc=u" target="_blank" class="btn btn-lg btn-template-main">Shop Gifts on Redbubble</a>
   <a href="https://happyhannahartshop.etsy.com" target="_blank" class="btn btn-lg btn-template-main">Shop Stickers on Etsy</a>
+  <a href="https://www.redbubble.com/people/HappyHannahArt/shop?asc=u" target="_blank" class="btn btn-lg btn-template-main">Shop Gifts on Redbubble</a>
 image: "img/carousel/hannah_chef.png"
 href: ""
