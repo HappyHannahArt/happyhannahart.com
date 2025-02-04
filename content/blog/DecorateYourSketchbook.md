@@ -1,5 +1,5 @@
 +++
-title = "Three Simple Steps to Add Joy in Drawing"
+title = "3 Simple Steps to Add Joy in Drawing"
 date = "2025-01-30T21:29:20+08:00"
 tags = ["sketchbook", "drawing", "journaling"]
 categories = ["art"]
