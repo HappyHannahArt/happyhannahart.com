@@ -13,7 +13,7 @@
 
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.5;
   color: #555555;
 }
@@ -70,12 +70,15 @@ body {
   opacity: 0.92;
 }
 
-.home-carousel h1,
 .home-carousel h2,
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
   color: #333333;
+}
+
+.home-carousel h1 {
+  color: #5a1986;
 }
 
 #heading-breadcrumbs h1 {
@@ -84,6 +87,7 @@ body {
   font-style: normal;
   text-transform: none;
   letter-spacing: normal;
+  color: #5a1986;
 }
 
 .home-carousel h1 {
@@ -140,7 +144,7 @@ body {
 }
 
 .box-simple h3, .heading h2 {
-  color: #333333;
+  color: #5a1986;
   font-family: "peachy-keen-jf", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -171,4 +175,24 @@ body {
 
 .icon {
   font-size: 40px;
+}
+
+/* Styling for Pencilbooth signup form */
+.pb-subscribe-form, .pb-message, .pb-form {
+  margin: 0px !important;
+  text-align: left !important;
+  padding-left: 0px !important;
+  font-size: 18px !important;
+  font-weight:normal !important;
+  padding-bottom:20px !important;
+}
+
+.pb-form, .pb-subscribe-form {
+  padding-bottom:20px !important;
+  padding-top:0px !important;
+  margin-top: 0px !important;
+}
+
+.pb-email-input, .pb-success-message-wrapper, .pb-success-message-title, .pb-success-message, .pb-error-message {
+  font-size: 18px !important;
 }

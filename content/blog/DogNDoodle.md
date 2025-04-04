@@ -1,10 +1,10 @@
 +++
-title = "How I Overcame My Fear of Crayons"
+title = "Crayons Making a Comeback"
 date = "2025-02-23T21:29:20+08:00"
 tags = ["cartoons", "drawing"]
 categories = ["cartoons"]
 banner = "img/banners/DogNDoodleTile.png"
-caption = "Some of the Dog N Doodle drawings"
+caption = "Some of my Dog N Doodle drawings"
 authors = ["Leslie Carrier"]
 +++
 
