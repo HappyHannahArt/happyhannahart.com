@@ -1,5 +1,5 @@
 +++
-title = "Happy Hannah Art LLC Privacy Policy"
+title = "Privacy Policy"
 +++
 
 Last updated: August 30, 2025
