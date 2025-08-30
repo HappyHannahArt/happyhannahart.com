@@ -66,16 +66,19 @@
 
 <!-- *** FOOTER END *** -->
 
-<!-- *** COPYRIGHT ***
+<!-- *** COPYRIGHT AND PRIVACY POLICY ***
 _________________________________________________________ -->
 
 <div id="copyright">
     <div class="container">
-        <div class="col-md-12">
+        <div class="col-sm-12">
             {{ if .Site.Params.copyright }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
-            {{ end }}       
+            {{ .Site.Params.copyright | safeHTML }}
+            <br>
+            {{ end }}  
+            <a href="{{ "privacy" | relURL }}">Privacy Policy</a>              
         </div>
+
     </div>
 </div>
 <!-- /#copyright -->
