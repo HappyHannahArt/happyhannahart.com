@@ -25,10 +25,16 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
+    name       = "Shop"
+    identifier = "menu.shop"
+    url        = "https://happyhannahartshop.etsy.com"
+    weight     = 2    
+
+[[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
     url        = "/blog"
-    weight     = 2
+    weight     = 3
     
 
 [[menu.topbar]]
