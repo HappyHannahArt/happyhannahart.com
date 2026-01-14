@@ -73,7 +73,7 @@ pluralizelisttitles = false
     defaultKeywords = ["happyhannahart"]
     mainSections = ["blog"]
     defaultDescription = "Welcome to Happy Hannah Art! Celebrating pets, animals, and treats through my artwork!"
-    copyright = "Copyright ©2025 Happy Hannah Art LLC"
+    copyright = "Copyright ©2026 Happy Hannah Art LLC"
 
     enableRecaptchaInContactForm = true
     googleRecaptchaKey = "6LdcXQkqAAAAAKkZBdxtF_CIHLCz5DG1QF5e_3sM"
